@@ -12,6 +12,7 @@ order_number: 3
       <p class="resume-item-details group" itemprop="description"><b>{{ education.degree }} &bull; {{ education.year }}</b></p>
       <p class="resume-item-summary"> <b>Major:</b> {{ education.summary }}</p>
       <p class="resume-item-copy"> <b>Awards/Honors: </b>{{ education.awards }}</p>
+      <p class="resume-item-copy"> <b>Courses Taken: </b>{{ education.courses }}</p>
     <!-- </div> -->
     {% endfor %}
   <!-- </section> -->
