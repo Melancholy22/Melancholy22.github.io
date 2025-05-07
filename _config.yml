@@ -32,3 +32,5 @@ collections:
       - experience.md
       - projects.md
     
+include:
+  - _images
