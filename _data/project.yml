@@ -56,3 +56,29 @@
     <li>Utilized Autowalk function in order to record routes for delivery</li></ul>
   youtube: 
   urls:
+- name: FinePrint - AI-Powered Terms & Conditions Analyzer
+  timeframe: Jan, 2025 &mdash; Present
+  description: Chrome extension that automatically scans and analyzes online Terms and Conditions using AI to highlight potential legal risks.
+  role: 
+    <ul>
+      <li>Co-developed a Chrome extension that uses OpenAI LLMs to analyze and summarize Terms & Conditions documents</li>
+      <li>Engineered frontend interface with a dynamic risk gauge and bullet-point summaries of high-risk clauses</li>
+      <li>Designed and deployed an AWS-hosted backend to process T&C data and manage MongoDB integration</li>
+      <li>Implemented user comment & review features with persistent storage and retrieval functionality</li>
+      <li>Built custom prompts and parsing logic to extract legal risk structures using OpenAI API</li>
+    </ul>
+  youtube: 
+  urls:
+- name: Scam Detector AI - RNN-Powered Spam Classifier
+  timeframe: Mar, 2025 &mdash; Present
+  description: Deep learning application that classifies phishing emails and spam SMS using a custom-trained RNN model.
+  role:
+    <ul>
+      <li>Curated and cleaned datasets including phishing email corpora and SMS spam messages</li>
+      <li>Designed and trained a Recurrent Neural Network (RNN) for binary classification of scam content</li>
+      <li>Implemented text preprocessing and normalization pipelines using regular expressions and Pandas</li>
+      <li>Utilized PyTorch to construct, train, and evaluate model performance on real-world spam indicators</li>
+      <li>Experimented with Transformer-based tokenizers (BERT) as part of a hybrid NLP pipeline</li>
+    </ul>
+  youtube:
+  urls:
