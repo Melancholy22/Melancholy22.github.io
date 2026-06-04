@@ -82,3 +82,17 @@
     </ul>
   youtube:
   urls:
+- name: Dish rating app
+  timeframe: May, 2026 &mdash; Present
+  description: A web application that allows users to rate and review dishes from various restaurants, built with Next.js, supabase, and Tailwind CSS.
+  role:
+    <ul>
+      <li>Created authentication system using Supabase</li>
+      <li>Designed and implemented a user-friendly interface with Next.js and Tailwind CSS</li>
+      <li>Developed Entity Relationship Diagram (ERD) for database handling dish ratings and reviews</li>
+      <li>Implemented SQL queries to manage user data and dish information in Supabase</li>
+      <li>Created SQL trigger to create user profiles for new users</li>
+      <li>Google Maps API integration to display restaurant locations and dish information</li>
+    </ul>
+  youtube:
+  urls:
