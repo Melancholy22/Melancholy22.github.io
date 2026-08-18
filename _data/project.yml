@@ -49,11 +49,9 @@
   timeframe: Jan, 2023 &mdash; May, 2023
   description: Spot Package delivery service
   role:
-    <ul><li>Explored the different funtionality and features of the Boston Dynamics SPOT robot</li>
-    <li>Developed software to pick up and deliver packages using Python</li>
-    <li>Applied the use of fiducial recognition to recognize pickup/drop-off locations and detect packages</li>
-    <li>Responsible for maintaining and updating hardware/software</li>
-    <li>Utilized Autowalk function in order to record routes for delivery</li></ul>
+    <ul><li>Collaborated with a five-member team to develop a Python-based autonomous package delivery system for the Boston Dynamics Spot robot using the Spot SDK/API, enabling autonomous navigation, package retrieval, and delivery.</li>
+    <li>Implemented GraphNav-based waypoint navigation in Python, guiding Spot through a recorded map of connected waypoints into designated rooms while using its onboard cameras to detect AprilTag fiducial markers as visual delivery-location references.</li>
+    <li>Integrated autonomous navigation with the overall package-handling workflow, allowing Spot to localize within the environment, navigate toward designated delivery points, and coordinate with the robotic arm for package pickup and delivery.</li></ul>
   youtube: 
   urls:
 - name: FinePrint - AI-Powered Terms & Conditions Analyzer

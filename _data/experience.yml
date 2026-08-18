@@ -4,9 +4,9 @@
   position: Intern
   duration: Jul, 2020 &mdash; Oct, 2020
   summary:
-    <ul><li>Designed website through GoDaddy, and conducted extensive research in customer appeal to maximize web traffic.</li>
-    <li>Formulated presentations based on data modeling, data representation, and entity relations in weekly progress reports.</li>
-    <li>Learned how to create database based on information from entity relationship diagram.</li></ul>
+    <ul> <li>Developed a full-stack HR management web application integrating responsive web interfaces, business logic, and a Supabase-hosted PostgreSQL database for dynamic employee and HR workflows.</li>
+    <li>Designed relational data models, ER diagrams, database schemas, and CRUD operations; translated business requirements into tables, relationships, constraints, and application workflows using PostgreSQL, Supabase, SQL, and Lucidchart/Draw.io.</li>
+    <li>Created wireframes, page layouts, and user workflows and developed site functionality using WordPress and GoDaddy, turning initial requirements and static designs into a functional web application.</li></ul>
   references: Director of Business Accounts - Lena Sardesai - (703) 297-2275
 # Cal Poly Pomona
 - company: California State Polytechnic University, Pomona
