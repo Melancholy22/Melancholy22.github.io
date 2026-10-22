@@ -4,10 +4,10 @@
   position: Intern
   duration: Jul, 2020 &mdash; Oct, 2020
   summary:
-    <ul> <li>Developed a full-stack HR management web application integrating responsive web interfaces, business logic, and a Supabase-hosted PostgreSQL database for dynamic employee and HR workflows.</li>
-    <li>Designed relational data models, ER diagrams, database schemas, and CRUD operations; translated business requirements into tables, relationships, constraints, and application workflows using PostgreSQL, Supabase, SQL, and Lucidchart/Draw.io.</li>
-    <li>Created wireframes, page layouts, and user workflows and developed site functionality using WordPress and GoDaddy, turning initial requirements and static designs into a functional web application.</li></ul>
-  references: Director of Business Accounts - Lena Sardesai - (703) 297-2275
+    <ul> <li>Built a full-stack HR management prototype to centralize employee records and HR workflows, connecting responsive web interfaces to a Supabase-hosted PostgreSQL database.</li>
+    <li>Designed PostgreSQL tables and SQL CRUD operations for managing employee records, using database relationships and constraints to maintain consistent data</li>
+    <li>Delivered a functional WordPress website from wireframes and user flows, implementing page layouts and site features with GoDaddy hosting</li></ul>
+  references: Director of Business Accounts - Lena Sardesai - (703) 297-2275 - lena@tcisystems.net
 # Cal Poly Pomona
 - company: California State Polytechnic University, Pomona
   position: Research Assistant
